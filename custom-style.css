@@ -9,3 +9,7 @@
 .logo {
   width: 130px;
 }
+.blur-items {
+  backdrop-filter: blur(10px);
+  background-color: #91909023;
+}
